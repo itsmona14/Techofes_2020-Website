@@ -1,0 +1,38 @@
+body
+	{
+	background-image:url(gip.gif);
+	background-repeat:no-repeat;
+	background-size:cover;
+	}
+
+#techo
+	{
+	background-image:url(goldenlogo.png);
+	background-repeat:no-repeat;
+	background-position:left;
+	height:160px;
+	background-color:black;
+	}
+#button
+	{
+	margin-top:50px;
+	background-color:black;
+	float:right;
+	position:sticky;
+	background-color:black;
+	}
+#menu
+	{
+	width:35px;
+	height:5px;
+	background-color:white;
+	}
+span img
+	{
+	border-radius:50%;
+	}
+h1
+	{
+	color:white;
+	font-family:Ink Free;
+	}		

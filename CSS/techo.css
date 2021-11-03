@@ -1,0 +1,39 @@
+body
+	{
+	background-image:url(gip.gif);
+	background-repeat:no-repeat;
+	background-size:cover;
+	}
+#techo
+	{
+	background-color:black;
+	background-image:url(goldenlogo.png);
+	background-repeat:no-repeat;
+	background-position:left;
+	height:160px;
+	}
+
+
+#button
+	{
+	
+	margin-top:50px;
+	background-color:black;
+	border:none;
+	float:right;
+	position:sticky;
+	}
+#menu
+	{
+	width:35px;
+	height:5px;
+	background-color:white;
+	}
+* {box-sizing:border-box}
+
+/* Slideshow container */
+.slideshow-container {
+  max-width: 1000px;
+  
+  margin: auto;
+}
